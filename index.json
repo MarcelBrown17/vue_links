@@ -18,7 +18,7 @@
         {
      "id":"1",
      "name":"Zubair Matthee",
-     "description":">Marcel is a hardworking individual who consistently demonstrates a strong work ethic and dedication towards his goals. He is willing to put in the time and effort to achieve success, and is motivated to continuously improve himself and his work. ",
+     "description":"Marcel is a hardworking individual who consistently demonstrates a strong work ethic and dedication towards his goals. He is willing to put in the time and effort to achieve success, and is motivated to continuously improve himself and his work. ",
      "imgSrc":""
         },
         {
@@ -101,4 +101,4 @@
       "skill3":""
     }
 ]
-}
+};
